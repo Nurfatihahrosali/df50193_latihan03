@@ -20,6 +20,16 @@
     $nokp ='010111081202';
     $nopen ='18DDT19F1008'
     
+    $x = 100;
+    $y ='100';
+    
+    if ($x == $y){
+        echo 'Same';
+
+    }
+    else{
+        echo ' Berbeza';
+    }
     ?>
 
 </body>
